@@ -1,3 +1,7 @@
+**Important Note**
+- this project is on-going and will not be completed until May 2024
+- original datasets cannot be shared due to NDA
+
 **Project Summary**
 
 Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Current)
