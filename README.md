@@ -6,8 +6,9 @@
 
 Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Current)
 
+- Identify data quality issues and suggest mitigation approchaes for current SCM data 
 - Collaborated with Solar Turbines' SCM team to analyze global shipping data, identify accessorial charge trends, and optimize shipping mode mixes, resulting in shipping charge reductions.
-- Developed dashboards to communicate findings with visuals
+- Developdashboards to communicate findings and insights with visuals
   ________________________
   **Challenges**
   - identify data quality issues for clients current data and propose mitigation solutions
