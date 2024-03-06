@@ -1,6 +1,6 @@
 **Important Note**
 - this project is on-going and will not be completed until May 2024
-- original datasets cannot be shared due to NDA
+- original datasets cannot be shared due to NDA (only workproducts such as viz and insights)
 
 **Project Summary**
 
