@@ -33,6 +33,8 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
 
 ![Screenshot 2024-03-06 145538](https://github.com/samgeles/Solar-Turbines/assets/143467895/46648a56-11ec-439b-a6c4-edb9cb0c21a2)
 
+![Screenshot 2024-03-06 150309](https://github.com/samgeles/Solar-Turbines/assets/143467895/3b6a1e60-dc61-465e-ae87-89530a256545)
+
 
 **Parcel EDA Visualizations**
 
