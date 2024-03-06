@@ -29,6 +29,11 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
   - this project is on-going and will not be completed until May 2024 
   ________________________
 
+**Accessorial EDA Visualizations**
+
+![Screenshot 2024-03-06 145538](https://github.com/samgeles/Solar-Turbines/assets/143467895/46648a56-11ec-439b-a6c4-edb9cb0c21a2)
+
+
 **Parcel EDA Visualizations**
 
 ![Parcel Tab Viz](https://github.com/samgeles/Solar-Turbines/assets/143467895/1158fc88-b1b3-41f7-b46b-1889064c1eb2)
