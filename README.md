@@ -1,11 +1,12 @@
 **Important Note**
-- this project is on-going and will not be completed until May 2024
+
 - original datasets cannot be shared due to NDA (only workproducts such as viz and insights)
 
 **Project Summary**
 
 Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Current)
 
+- My role in this project was to conduct analysis for 3 
 - Identify data quality issues and suggest mitigation approchaes for current SCM data 
 - Collaborated with Solar Turbines' SCM team to analyze global shipping data, identify accessorial charge trends, and optimize shipping mode mixes, resulting in shipping charge reductions.
 - Developdashboards to communicate findings and insights with visuals
@@ -26,20 +27,8 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
   - meet with stakeholders bi-weekly to communicate analysis strategies 
 
   **Conclusions**
-  - this project is on-going and will not be completed until May 2024 
+  - 
   ________________________
 
-**Accessorial EDA Visualizations**
-
-![Screenshot 2024-03-06 145538](https://github.com/samgeles/Solar-Turbines/assets/143467895/46648a56-11ec-439b-a6c4-edb9cb0c21a2)
-
-![Screenshot 2024-03-06 150309](https://github.com/samgeles/Solar-Turbines/assets/143467895/3b6a1e60-dc61-465e-ae87-89530a256545)
-
-
-**Parcel EDA Visualizations**
-
-![Parcel Tab Viz](https://github.com/samgeles/Solar-Turbines/assets/143467895/1158fc88-b1b3-41f7-b46b-1889064c1eb2)
-
-![Screenshot 2024-03-06 135206](https://github.com/samgeles/Solar-Turbines/assets/143467895/93105047-61ef-4d8d-8159-fafb60890615)
 
 
