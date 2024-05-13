@@ -39,10 +39,14 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
 
   **Results**
 
-**1) General Cost Overview For All Domestic and Foreign Shipments**
+**General Cost Overview For All Domestic and Foreign Shipments**
 ![Screenshot 2024-05-13 084411](https://github.com/samgeles/Solar-Turbines/assets/143467895/bc4e68fb-e056-4d2b-a4b7-165ca528675b)
 
+**Cost Per Mile Analysis (Domestic Shipments)**
+![Screenshot 2024-05-13 095033](https://github.com/samgeles/Solar-Turbines/assets/143467895/51568f8b-de81-40f1-83c3-ebe5f4a9b060)
 
+**Cost Per Pound Analysis (International Shipments)**
+![Screenshot 2024-05-13 094958](https://github.com/samgeles/Solar-Turbines/assets/143467895/07c1e40f-188a-4057-8b9b-dcbfa8a640ac)
 
 
   ________________________
