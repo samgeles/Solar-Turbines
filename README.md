@@ -38,7 +38,8 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
   - created calculated fields on-the-fly in Tableau to observe how new variables react
 
   **Results**
-![Screenshot 2024-05-13 084411](https://github.com/samgeles/Solar-Turbines/assets/143467895/183b9d79-99a1-42f6-9e58-4cadb17e52d6)
+![1](https://github.com/samgeles/Solar-Turbines/assets/143467895/bdd800ba-a90e-4c47-96a4-2d1d826c9851)
+
 
   ________________________
 
