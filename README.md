@@ -22,7 +22,9 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
   ________________________
   **Challenges**
   - anonymized data makes it hard for us to conduct any product analysis
-  - only given data for past 3 years 
+  - only given data for past 3 years
+  - data inconsistency and incompleteness; data required heavy cleaning
+  - extremely large datasets increased script execution time
  
   **Technology Used**
   - Python
@@ -30,11 +32,14 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
   - Excel
 
   **Techniques Used**
-  - performed exploratory data analysis using python to identify data quality issues and outliers
-  - 
+  - intial exploratory data analysis using python to identify data quality issues and outliers
+  - transformed values and created new variables using python and excel
+  - analyzed data trends and visualized data using Tableau
+  - created calculated fields on-the-fly in Tableau to observe how new variables react
 
   **Results**
-  - 
+![Screenshot 2024-05-13 084411](https://github.com/samgeles/Solar-Turbines/assets/143467895/183b9d79-99a1-42f6-9e58-4cadb17e52d6)
+
   ________________________
 
 
