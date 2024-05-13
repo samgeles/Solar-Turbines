@@ -48,9 +48,17 @@ When looking at the relationship between costs and carriers used we’ve identif
 
 ![Screenshot 2024-05-13 095033](https://github.com/samgeles/Solar-Turbines/assets/143467895/51568f8b-de81-40f1-83c3-ebe5f4a9b060)
 
+Overall average cost per mile has been increasing since the start of 2021 . All quarters exhibit an increasing average cost per mile with the highest averages sitting in the 4th quarter.
+
+Carrier Edwards-Hicks has the highest average cost per mile for shipments. Shipments with carrier Mcneil, Frank and Wise tend to have the highest average mileage
 
 
 ![Screenshot 2024-05-13 094958](https://github.com/samgeles/Solar-Turbines/assets/143467895/07c1e40f-188a-4057-8b9b-dcbfa8a640ac)
+
+There’s a few notable trends here, the first being that the avg cost per pound for international  shipments in 2021 was highest with a steep drop off starting in the second quarter. The second notable trend is an overall increasing avg cost per pound from mid 2021 to the end of 2023. The last trend yearly trend we can observe is a trend reversal for avg cost per pound within each year, where 2020 and 2021 have high to low trends and 2022 and 2023 have generally increasing avg costs throughout each year.
+
+Moving on to the bottom, when we look at international destination countries we can observe that Israel and Hungary are the two countries where shipments have been demanding the highest average cost per pound
+
 
 
   ________________________
