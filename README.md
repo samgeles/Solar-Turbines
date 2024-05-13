@@ -39,13 +39,17 @@ Solar Turbines Global Supply Chain Operations Analytics Project (Jan 2024 - Curr
 
   **Results**
 
-**General Cost Overview For All Domestic and Foreign Shipments**
 ![Screenshot 2024-05-13 084411](https://github.com/samgeles/Solar-Turbines/assets/143467895/bc4e68fb-e056-4d2b-a4b7-165ca528675b)
 
-**Cost Per Mile Analysis (Domestic Shipments)**
+Overall average accessorial charges have been increasing year over year. When looking at in-year accessorial charge trends we can actually observe a trend reversal. Years 2020 and 2021 have exhibited downward trends for accessorial charges, but now years 2022 and 2023 have been exhibiting increasing avg accessorial charge trends.
+
+When looking at the relationship between costs and carriers used we’ve identified that carrier Davis-Robinson has highest total amount paid for shipments, carrier Jones-Jones has highest avg amount paid for shipments, and carrier Taylor Ltd has highest count of shipments. 
+
+
 ![Screenshot 2024-05-13 095033](https://github.com/samgeles/Solar-Turbines/assets/143467895/51568f8b-de81-40f1-83c3-ebe5f4a9b060)
 
-**Cost Per Pound Analysis (International Shipments)**
+
+
 ![Screenshot 2024-05-13 094958](https://github.com/samgeles/Solar-Turbines/assets/143467895/07c1e40f-188a-4057-8b9b-dcbfa8a640ac)
 
 
